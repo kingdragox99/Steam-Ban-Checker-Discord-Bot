@@ -1002,10 +1002,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==
 
-cron@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/cron/-/cron-2.3.0.tgz#20df6da18d4f7d2f8937def2eb5fc0d1a320c526"
-  integrity sha512-ZN5HP8zDY41sJolMsbc+GksRATcbvkPKF5wR/qc8FrV4NBVi9ORQa1HmYa5GydaysUB80X9XpRlRkooa5uEtTA==
+cron@^2.4.0:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/cron/-/cron-2.4.1.tgz#90000398576beb3787339a1b3131f336aed10771"
+  integrity sha512-ty0hUSPuENwDtIShDFxUxWEIsqiu2vhoFtt6Vwrbg4lHGtJX2/cV2p0hH6/qaEM9Pj+i6mQoau48BO5wBpkP4w==
   dependencies:
     luxon "^3.2.1"
 
